@@ -14,7 +14,7 @@ class MainViewModel(
 ) : ViewModel() {
 
     companion object {
-        private const val API_KEY = "7bc0651fe0ea5973822df3bd27e779d9"
+        private const val API_KEY = "8ba73cb2e4eb1663e251203a5900a0f6"
         private const val SOMETHING_WENT_WRONG = "Something went wrong"
     }
 
